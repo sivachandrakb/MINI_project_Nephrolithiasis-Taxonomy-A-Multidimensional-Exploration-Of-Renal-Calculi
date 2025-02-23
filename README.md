@@ -3,7 +3,7 @@
 📌 **Authors**: Lakshmi V, Vb, Kb Sivachandra, S. Abhishek, T. Anjali  
 📅 **Conference**: 2023 2nd International Conference on Automation, Computing, and Renewable Systems (**ICACRS**)  
 📜 **Published by**: IEEE  
-📄 **DOI**: [Link to Paper](#) *(Replace with actual DOI link)*  
+📄 **DOI**: [Link to Paper](10.1109/ICACRS58579.2023.10404959)  
 
 ---
 
